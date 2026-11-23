@@ -1,6 +1,1 @@
-length=int (input("number"))
-breadth=int (input("number"))
-area=(length*breadth)
-print(area)
-perimeter=2*(length+breadth)
-print(perimeter)
+
